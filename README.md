@@ -9,7 +9,7 @@ A free landing page template using **Daisy UI** and Next JS. With the help of Da
 
 ## Preview
 
-[Live preview]((https://blog-ai-web.vercel.app/)
+[Live preview]((https://blog-ai-web-d9r2.vercel.app/)
 
 
 
@@ -41,7 +41,7 @@ Go to project directory and run (make sure you have node installed first)
 
 ## Preview
 
-[Live preview][](https://blog-ai-web.vercel.app/)
+[Live preview][](https://blog-ai-web-d9r2.vercel.app/)
 
 
 
