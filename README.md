@@ -1,7 +1,7 @@
 
 ![Logo](https://ik.imagekit.io/vu5t8xb15vzcx/tr:h-100/M_akhjB4K1-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677436748377)
 
-## Daisy UI Next JS Landing Page Template 
+## Daisy UI Next JS Blog Template 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 A free landing page template using **Daisy UI** and Next JS. With the help of Dasisy UI, it comes with **fully customizable and themable CSS** and power of Tailwind CSS utility classes.
