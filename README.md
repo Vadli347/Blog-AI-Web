@@ -26,8 +26,9 @@ A free landing page template using **Daisy UI** and Next JS. With the help of Da
 Go to project directory and run (make sure you have node installed first)
 
 ```bash
-  npm install
-  npm start
+  npx create-next-app@latest
+  npm  run dev
+  open in browsers: localhost:3000
 ```
     
 ## Core Libraries Used
